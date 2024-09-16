@@ -1,4 +1,4 @@
-my env file 
+<mark>my env file</mark> 
 
 PORT=       <br>
 JWT_SECRET=   <br>
@@ -7,15 +7,16 @@ MONGO_URI=   <br>
 
 
 
-
+<mark>how to run</mark> 
+you can run this file using nodemon <mark>index.js</mark>
 
 
 
 
 # task-manegment-app
-****************************************************its task manegment app and its create on roll base 
+****************************************************<mark>its task manegment app and its create on roll base</mark> 
 
-****************************************************useble dependancy
+****************************************************<mark>useble dependancy</mark>
 
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.3",
@@ -27,12 +28,12 @@ MONGO_URI=   <br>
     "mongoose": "^8.6.2",
     "nodemon": "^3.1.4"
 
-*****************************************************two type of schema add
+*****************************************************<mark>two type of schema add</mark>
 first user schema (name,password,roll)
 
 second is task schema (taskname ,status,description,createdby,assignedTo,category)
 
-*****************************************************url wich use in post men direct 
+*****************************************************<mark>url wich use in post men direct</mark> 
 
 register = http://localhost:4010/register?name=hii&password=1111&roll=user
 
@@ -46,7 +47,7 @@ update task = http://localhost:4010/tasks/id
 
 delete task = http://localhost:4010/tasks/id
 
-********************************************************admin side handle
+********************************************************<mark>admin side handle</mark>
 GET    =     http://localhost:4010/tasks
 POST   =     http://localhost:4010/tasks
 PATCH  =     http://localhost:4010/tasks/:id
