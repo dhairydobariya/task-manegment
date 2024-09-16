@@ -28,10 +28,10 @@ you can run this file using  <mark> nodemon index.js</mark>
     "mongoose": "^8.6.2",
     "nodemon": "^3.1.4"
 
-*****************************************************<mark>two type of schema add</mark>
-first user schema (name,password,roll)
+*****************************************************<mark>two type of schema add</mark> <br>
+<b>first user schema (name,password,roll)</b>
 
-second is task schema (taskname ,status,description,createdby,assignedTo,category)
+<b>second is task schema (taskname ,status,description,createdby,assignedTo,category)</b>
 
 *****************************************************<mark>url wich use in post men direct</mark> 
 
