@@ -8,7 +8,7 @@ MONGO_URI=   <br>
 
 
 <mark>how to run</mark> 
-you can run this file using nodemon <mark>index.js</mark>
+you can run this file using  <mark> nodemon index.js</mark>
 
 
 
