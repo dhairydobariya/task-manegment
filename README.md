@@ -1,3 +1,17 @@
+my env file 
+
+PORT=
+JWT_SECRET=
+MONGO_URI=
+
+
+
+
+
+
+
+
+
 # task-manegment-app
 ****************************************************its task manegment app and its create on roll base 
 
