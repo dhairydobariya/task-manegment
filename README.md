@@ -1,8 +1,8 @@
 my env file 
 
-PORT=
-JWT_SECRET=
-MONGO_URI=
+PORT=       <br>
+JWT_SECRET=   <br>
+MONGO_URI=   <br>
 
 
 
